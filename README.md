@@ -42,8 +42,11 @@ This is a Daily Bazar List Simple Add- Remove Calculation
 >> git clone https://github.com/md-miraz-uddin/nodejs-practice001.git
 >
 >
-> mail me at mirazuddin0623@gmail.com to get 'script.js' file
-> And give me a Valid reason Why You need this file
+> Mail me at mirazuddin0623@gmail.com to get 'script.js' file
+>
+>> Please explain in the mail why I should give that to you
+>>
+>> If you get the file , paste it in 'public\js' folder
 >
 >
 > Open a terminal & type
@@ -57,4 +60,4 @@ This is a Daily Bazar List Simple Add- Remove Calculation
 > Go to Browser
 >> Visit http://localhost:4040
 >>
-> Enjoy
+> Sit, Relax & Enjoy Coding
