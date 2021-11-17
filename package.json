@@ -1,0 +1,24 @@
+{
+  "name": "bazar",
+  "version": "1.0.0",
+  "description": "This is a Daily Bazar Cart List Calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-miraz-uddin/node-bazar.git"
+  },
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md-miraz-uddin/node-bazar/issues"
+  },
+  "homepage": "https://github.com/md-miraz-uddin/node-bazar#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-toastr": "^2.0.2",
+    "nodemon": "^2.0.14"
+  }
+}
